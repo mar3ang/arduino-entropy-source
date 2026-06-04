@@ -1,6 +1,5 @@
 import serial
 import time
-
 PORT = "/dev/cu.usbmodem1101"  
 BAUD = 115200
 
