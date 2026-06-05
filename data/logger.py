@@ -6,7 +6,7 @@ BAUD = 115200
 ser = serial.Serial(PORT, BAUD)
 time.sleep(2)  
 
-with open("data/samples.txt", "w") as f:
+with open("data/test_samples.txt", "w") as f:
     while True:
         try:
             line = ser.readline().decode("utf-8", errors="ignore").strip()
