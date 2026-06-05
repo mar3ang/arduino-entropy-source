@@ -21,6 +21,6 @@ Learn how an Arduino UNO R3 works, know what all the input points are for and ho
 Collect the data from an Arduino Board attached to a circuit containing of a resistor, 5V voltage and a grounded wire.(see images/Arduino-1.png for the visualisation) Compare that this data to the data obtained previously from the single Arduino, and analyze the difference. Assume why those differences happen. 
 
 #### 06/05:
-New circuit with two resistors (trying to make the results more random since right now they are pretty consequitive). Start building software for visualization of the results of the so far 3 different setups.  
+New circuit with two resistors (trying to make the results more scientifically correct since right now they are pretty chaotic which means that the system is constantly disturbed by the nevironmental noise which is an unfavorable outcome). Start building software for visualization of the results of the so far 3 different setups.  
 
 
