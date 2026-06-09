@@ -97,7 +97,17 @@ arduino-entropy-source/
 │   └── visualization.py
 │
 ├── data/
-│   └── (logged datasets)
+|   ├── logger.py
+|   ├── 0Rsamples.txt  
+|   ├── 1Rsamples.txt 
+│   └── 2Rsamples.txt
+|
+├── documentation/notes/
+│   └── engineering_journal.md
+|
+├── images/
+|   ├── arduino-1.png
+│   └── arduino-2.png
 │
 └── README.md
 ```
