@@ -23,4 +23,8 @@ Collect the data from an Arduino Board attached to a circuit containing of a res
 #### 06/05:
 New circuit with two resistors (trying to make the results more scientifically correct since right now they are pretty chaotic which means that the system is constantly disturbed by the nevironmental noise which is an unfavorable outcome). Start building software for visualization of the results of the so far 3 different setups.  
 
+#### 06/08: 
+Complete the softaware for the visualization: graphs & histograms. Improve the data quality based on the made graphs. Make assumptions on why this data is structured in such way, and perhaps, run the the tests once again. 
+
+#### 06/09: 
 
