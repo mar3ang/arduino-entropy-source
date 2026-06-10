@@ -33,4 +33,5 @@ So far, the efficiency of the algorithm after it recieves the data is *500/10000
 
 As of now, the work should be continued on: 
 - improving the circuit, finding new materials or parts such as a noise translator or a diode
-- improving the algorithm which wouldn't have to ignore so much data, maybe not use the binary conversion since it consums so much data. 
+- improving the algorithm which wouldn't have to ignore so much data: maybe not use the binary conversion since it consums so much data. 
+- making the project more easy to access, start working on the main file. So far, the idea is to make a single program that would do everything: run the data collection, analyze it, then convert it into binary system (or any other way, if I find it)
